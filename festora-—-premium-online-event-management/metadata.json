@@ -1,0 +1,6 @@
+{
+  "name": "Festora — Premium Online Event Management",
+  "description": "Discover. Connect. Celebrate. A complete event management platform with ticket booking, organizer dashboards, and enterprise Java Jakarta Servlet architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
